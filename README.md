@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Salman Shaikh</h1>
 <h3 align="center">A passionate frontend developer developer from Pakistan</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-shaikh001&label=Profile%20views&color=0e75b6&style=flat" alt="salman-shaikh001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salman-shaikh001&label=Profile%20views&color=0e75b6&style=flat" alt="salman-shaikh001" /></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salman-shaikh001" alt="salman-shaikh001" /></a> </p>
 
@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Prepify**
 
-- 👨‍💻 All of my projects are available at (Coming Soon)
+- 👨‍💻 All of my projects are available at https://salman-shaikh-showcase.lovable.app
 
 - 💬 Ask me about **HMTL, CSS, JavaScript**
 
