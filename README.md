@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Prepify**
 
-- 👨‍💻 All of my projects are available at [#Coming Soon](#Coming Soon)
+- 👨‍💻 All of my projects are available at (Coming Soon)
 
 - 💬 Ask me about **HMTL, CSS, JavaScript**
 
